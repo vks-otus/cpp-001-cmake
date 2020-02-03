@@ -1,1 +1,1 @@
-# cpp-001-cmake
+# Система сборки: build, test and deploy
