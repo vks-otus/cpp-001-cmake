@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.2)
 
-project(hello_wolrd_test)
+project(hello_world_test)
 
 add_library(hw_app ../src/app.cpp)
 add_executable(test_version test_version.cpp)

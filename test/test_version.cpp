@@ -1,4 +1,4 @@
-#define BOOST_TEST_MODULE hello_wolrd_test
+#define BOOST_TEST_MODULE hello_world_test
 
 #include "../src/app.h"
 #include <boost/test/unit_test.hpp>
