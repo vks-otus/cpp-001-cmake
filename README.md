@@ -1,7 +1,7 @@
 # Система сборки: build, test and deploy
 https://github.com/ + https://travis-ci.org/ + https://bintray.com/
 
-##Проверка
+## Проверка
 Задание считается выполнено успешно, если после подключения репозитория
 ```
 $ echo "deb http://dl.bintray.com/login/otus-cpp xenial main" \
